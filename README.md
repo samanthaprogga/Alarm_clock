@@ -1,7 +1,8 @@
 # Alarm Clock Web Application
 
 This is a simple alarm clock web application built using HTML, CSS, and JavaScript. The application allows users to set an alarm for a specific time and plays an alarm sound when the set time is reached.
-demo https://samanthaprogga.github.io/Alarm_clock/
+
+To see live demo click [here](https://samanthaprogga.github.io/Alarm_clock/)
 ## Features
 
 - Set an alarm by specifying the hour and minute.
